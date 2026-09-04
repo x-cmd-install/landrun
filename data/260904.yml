@@ -7,7 +7,7 @@ about:
   head: 811cfff
   archived: false
   latestVersion: v0.1.17
-  collectedAt: 2026-09-04T19:19:14Z
+  collectedAt: 2026-09-04T21:14:55Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-07-23
@@ -81,5 +81,33 @@ total:
   openIssue: 5
   commit: 112
 ---
+path: /home/runner/.x-repo/github.com/Zouuup/landrun
+collectedAt: 2026-09-04T21:14:55Z
+loc:
+  Go:
+    code: 1573
+    comments: 112
+    blanks: 188
+    files: 9
+  Sh:
+    code: 411
+    comments: 44
+    blanks: 103
+    files: 1
+  C:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 272
+    blanks: 134
+    files: 1
+total:
+  code: 2044
+  comments: 430
+  blanks: 427
+  files: 14
 ---
 
