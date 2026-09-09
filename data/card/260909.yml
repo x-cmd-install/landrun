@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.17"
   latestRelease: "v0.1.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:46:02Z
+  collectedAt: 2026-09-09T20:26:52Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-07-23
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 
 popularity:
-  star: 2286
+  star: 2285
   watcher: 19
   fork: 53
   release: 10
@@ -84,7 +84,7 @@ total:
   commit: 112
 ---
 path: /home/runner/.x-repo/github.com/Zouuup/landrun
-collectedAt: 2026-09-09T05:46:02Z
+collectedAt: 2026-09-09T20:26:54Z
 loc:
   Go:
     code: 1573
