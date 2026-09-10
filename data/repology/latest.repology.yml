@@ -1,0 +1,270 @@
+- repo: stalix_dev
+  srcname: bin/land/run
+  binname: bin/land/run
+  visiblename: bin/land/run
+  version: 0.1.17
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: slackbuilds
+  srcname: network/landrun
+  visiblename: network/landrun
+  version: 0.1.17
+  origversion: null
+  status: newest
+  maintainers:
+    - ricardsonwilliams+slackbuild@gmail.com
+  categories:
+    - network
+- repo: stalix
+  srcname: bin/land/run
+  binname: bin/land/run
+  visiblename: bin/land/run
+  version: 0.1.17
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: altsisyphus
+  srcname: landrun
+  binnames:
+    - landrun
+    - landrun-debuginfo
+  visiblename: landrun
+  version: 0.1.15
+  origversion: 0.1.15-alt1
+  status: outdated
+  summary: Landlock sandbox
+  maintainers:
+    - vt@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Security/Networking
+- repo: aur
+  srcname: landrun
+  binname: landrun
+  visiblename: landrun
+  version: 0.1.15
+  origversion: 0.1.15-1
+  status: outdated
+  summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
+  maintainers:
+    - vcalv@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: landrun-bin
+  binname: landrun-bin
+  visiblename: landrun-bin
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: landrun-git
+  binname: landrun-git
+  visiblename: landrun-git
+  version: v0.1.11.r5.e9ef54c
+  origversion: v0.1.11.r5.e9ef54c-1
+  status: rolling
+  summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
+  maintainers:
+    - juxuanu@aur
+  licenses:
+    - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: landrun
+  visiblename: landrun
+  version: 0.1.17
+  origversion: null
+  status: newest
+  summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
+- repo: kali_rolling
+  subrepo: main
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - misc
+- repo: nix_stable_25_05
+  srcname: landrun
+  visiblename: landrun
+  version: 0.1.15
+  origversion: null
+  status: outdated
+  summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
+  maintainers:
+    - arne.keller@posteo.de
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: landrun
+  visiblename: landrun
+  version: 0.1.15
+  origversion: null
+  status: outdated
+  summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
+  maintainers:
+    - arne.keller@posteo.de
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_26_05
+  srcname: landrun
+  visiblename: landrun
+  version: 0.1.15
+  origversion: null
+  status: outdated
+  summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
+  maintainers:
+    - arne.keller@posteo.de
+  licenses:
+    - GPL-2.0-only
+- repo: nix_unstable
+  srcname: landrun
+  visiblename: landrun
+  version: 0.1.15
+  origversion: null
+  status: outdated
+  summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
+  maintainers:
+    - arne.keller@posteo.de
+  licenses:
+    - GPL-2.0-only
+- repo: opensuse_security_tumbleweed
+  srcname: landrun
+  binnames:
+    - landrun
+    - landrun-debuginfo
+    - landrun-debugsource
+  visiblename: landrun
+  version: 0.1.14
+  origversion: 0.1.14-3.30
+  status: outdated
+  summary: A sandbox for running Linux processes using Landlock
+  licenses:
+    - MIT
+  categories:
+    - Productivity/Networking/Other
+- repo: raspbian_testing
+  subrepo: main
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.15
+  origversion: 0.1.15-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.15
+  origversion: 0.1.15-2build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - universe/misc
