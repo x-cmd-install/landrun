@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.17"
   latestRelease: "v0.1.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:41:55Z
+  collectedAt: 2026-09-11T19:24:23Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-07-23
@@ -32,59 +32,59 @@ recent:
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 0
-    openIssue: 1
+    closedIssue: 1
+    openIssue: 0
     commit: 0
   last60d:
     since: 2026-07-13
     release: 2
     mergedPR: 2
     openPR: 0
-    closedIssue: 1
-    openIssue: 1
+    closedIssue: 2
+    openIssue: 0
     commit: 9
   last90d:
     since: 2026-06-13
     release: 2
     mergedPR: 2
     openPR: 0
-    closedIssue: 2
-    openIssue: 2
+    closedIssue: 3
+    openIssue: 1
     commit: 9
   last180d:
     since: 2026-03-15
     release: 2
     mergedPR: 2
     openPR: 0
-    closedIssue: 5
-    openIssue: 2
+    closedIssue: 6
+    openIssue: 1
     commit: 9
   last360d:
     since: 2025-09-16
     release: 2
     mergedPR: 6
     openPR: 0
-    closedIssue: 11
-    openIssue: 3
+    closedIssue: 12
+    openIssue: 2
     commit: 15
   last720d:
     since: 2024-09-21
     release: 10
     mergedPR: 14
     openPR: 0
-    closedIssue: 36
-    openIssue: 6
+    closedIssue: 37
+    openIssue: 5
     commit: 112
 total:
   release: 10
   mergedPR: 14
   openPR: 0
-  closedIssue: 36
-  openIssue: 6
+  closedIssue: 37
+  openIssue: 5
   commit: 112
 ---
 path: /home/runner/.x-repo/github.com/Zouuup/landrun
-collectedAt: 2026-09-11T05:41:56Z
+collectedAt: 2026-09-11T19:24:24Z
 loc:
   Go:
     code: 1573
