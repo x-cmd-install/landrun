@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6544872,
       "digest": "sha256:6ada66a06669e8994e174a7271af2db636308e55a0d6ec896cc7d326b46727f6",
-      "download_count": 967,
+      "download_count": 971,
       "created_at": "2026-07-22T16:39:33Z",
       "updated_at": "2026-07-22T16:39:34Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6206112,
       "digest": "sha256:365d8c8656c732b14d70e621d972cb733e490621fb5b9c0876376bcf457dbb5d",
-      "download_count": 177,
+      "download_count": 178,
       "created_at": "2026-07-22T16:39:32Z",
       "updated_at": "2026-07-22T16:39:33Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-arm64"
