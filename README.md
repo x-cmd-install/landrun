@@ -36,7 +36,7 @@ Total: **1,989** lines of code across **14** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,293 · **Forks**: 53 · **Open issues**: 42 · **Contributors**: 11
+- **Stars**: 2,294 · **Forks**: 53 · **Open issues**: 42 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **1,989** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-19 | 2 | 2 | 0 | 2 | 0 | 9 |
-| 90d | 2026-06-19 | 2 | 2 | 0 | 3 | 1 | 9 |
-| last180d | 2026-03-21 | 2 | 2 | 0 | 6 | 1 | 9 |
-| 360d | 2025-09-22 | 2 | 6 | 0 | 12 | 2 | 15 |
-| last720d | 2024-09-27 | 10 | 14 | 0 | 37 | 5 | 112 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-20 | 2 | 2 | 0 | 2 | 0 | 9 |
+| 90d | 2026-06-20 | 2 | 2 | 0 | 3 | 1 | 9 |
+| last180d | 2026-03-22 | 2 | 2 | 0 | 6 | 1 | 9 |
+| 360d | 2025-09-23 | 2 | 6 | 0 | 12 | 2 | 15 |
+| last720d | 2024-09-28 | 10 | 14 | 0 | 37 | 5 | 112 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:12:47Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:54:44Z._
