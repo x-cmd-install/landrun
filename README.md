@@ -14,14 +14,14 @@ x install landrun
 
 ## Code insight
 
-Total: **1,989** lines of code across **14** files in the top 5 languages.
+Total: **2,588** lines of code across **14** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,573 | 112 | 188 | 9 |
-| Sh | 411 | 44 | 103 | 1 |
+| Go | 2,116 | 122 | 241 | 9 |
+| Sh | 467 | 51 | 123 | 1 |
 | C | 5 | 0 | 0 | 3 |
-| Markdown | 0 | 272 | 134 | 1 |
+| Markdown | 0 | 282 | 136 | 1 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **1,989** lines of code across **14** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.17` (2026-07-22)
-- **Last commit**: 2026-07-23
+- **Last commit**: 2026-10-16
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,315 · **Forks**: 55 · **Open issues**: 43 · **Contributors**: 11
+- **Stars**: 2,316 · **Forks**: 55 · **Open issues**: 43 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 14 · **Open PRs**: 2 · **Closed issues**: 37 · **Open issues**: 6 · **Commits**: 112
+- **Releases**: 10 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 2 · **Commits**: 116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 2 | 1 | 1 | 0 |
-| 90d | 2026-07-18 | 2 | 2 | 2 | 2 | 1 | 9 |
-| last180d | 2026-04-19 | 2 | 2 | 2 | 5 | 2 | 9 |
-| 360d | 2025-10-21 | 2 | 6 | 2 | 12 | 3 | 15 |
-| last720d | 2024-10-26 | 10 | 14 | 2 | 37 | 6 | 112 |
+| 30d | 2026-09-17 | 0 | 1 | 1 | 1 | 0 | 3 |
+| last60d | 2026-08-18 | 0 | 1 | 1 | 2 | 0 | 3 |
+| 90d | 2026-07-19 | 2 | 3 | 1 | 3 | 0 | 12 |
+| last180d | 2026-04-20 | 2 | 3 | 1 | 6 | 1 | 12 |
+| 360d | 2025-10-22 | 2 | 7 | 1 | 14 | 1 | 18 |
+| last720d | 2024-10-27 | 10 | 15 | 1 | 41 | 2 | 116 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:25:58Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:12:12Z._
