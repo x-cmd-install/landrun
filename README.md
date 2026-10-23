@@ -36,22 +36,22 @@ Total: **2,588** lines of code across **14** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,322 · **Forks**: 55 · **Open issues**: 44 · **Contributors**: 11
+- **Stars**: 2,324 · **Forks**: 55 · **Open issues**: 44 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 3 · **Commits**: 116
+- **Releases**: 10 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 2 · **Commits**: 116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 1 | 1 | 1 | 3 |
-| last60d | 2026-08-23 | 0 | 1 | 1 | 2 | 1 | 3 |
-| 90d | 2026-07-24 | 0 | 1 | 1 | 2 | 1 | 3 |
-| last180d | 2026-04-25 | 2 | 3 | 1 | 5 | 2 | 12 |
-| 360d | 2025-10-27 | 2 | 7 | 1 | 14 | 2 | 18 |
-| last720d | 2024-11-01 | 10 | 15 | 1 | 41 | 3 | 116 |
+| 30d | 2026-09-23 | 0 | 1 | 1 | 2 | 0 | 3 |
+| last60d | 2026-08-24 | 0 | 1 | 1 | 3 | 0 | 3 |
+| 90d | 2026-07-25 | 0 | 1 | 1 | 3 | 0 | 3 |
+| last180d | 2026-04-26 | 2 | 3 | 1 | 6 | 1 | 12 |
+| 360d | 2025-10-28 | 2 | 7 | 1 | 15 | 1 | 18 |
+| last720d | 2024-11-02 | 10 | 15 | 1 | 42 | 2 | 116 |
 
 ## Release assets
 
@@ -59,6 +59,18 @@ Total: **2,588** lines of code across **14** files in the top 5 languages.
 |-------|-----:|--------|
 | [landrun-linux-amd64](https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-amd64) | 6.2 MiB | `native/linux/x64` |
 | [landrun-linux-arm64](https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-arm64) | 5.9 MiB | `native/linux/arm64` |
+
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/landrun). **12** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.1.17` | ✅ latest |
+| Debian 14 | `0.1.17` | ✅ latest |
+| Ubuntu 26.04 LTS | `0.1.15` | ⚠️ outdated |
+| Homebrew | `0.1.17` | ✅ latest |
+| Nix unstable | `0.1.17` | ✅ latest |
 
 ## Improve this data
 
@@ -69,4 +81,4 @@ Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:38:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:35:44Z._
