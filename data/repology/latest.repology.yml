@@ -1,15 +1,3 @@
-- repo: aur
-  srcname: landrun-bin
-  binname: landrun-bin
-  visiblename: landrun-bin
-  version: 0.1.17
-  origversion: 0.1.17-1
-  status: newest
-  summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: landrun
   binnames:
@@ -36,6 +24,18 @@
   summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
   maintainers:
     - vcalv@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: landrun-bin
+  binname: landrun-bin
+  visiblename: landrun-bin
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
+  maintainers:
+    - dominiquini@aur
   licenses:
     - MIT
 - repo: aur
@@ -256,6 +256,21 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: landrun
+  binnames:
+    - landrun
+    - golang-github-zouuup-landrun-dev
+  visiblename: landrun
+  version: 0.1.17
+  origversion: 0.1.17-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - simon@josefsson.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: landrun
   binnames:
     - landrun
