@@ -36,7 +36,7 @@ Total: **2,588** lines of code across **14** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,332 · **Forks**: 54 · **Open issues**: 44 · **Contributors**: 11
+- **Stars**: 2,333 · **Forks**: 54 · **Open issues**: 44 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **2,588** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 1 | 1 | 1 | 0 | 3 |
-| last60d | 2026-09-07 | 0 | 1 | 1 | 3 | 0 | 3 |
-| 90d | 2026-08-08 | 0 | 1 | 1 | 3 | 0 | 3 |
-| last180d | 2026-05-10 | 2 | 3 | 1 | 5 | 1 | 12 |
-| 360d | 2025-11-11 | 2 | 7 | 1 | 14 | 1 | 18 |
-| last720d | 2024-11-16 | 10 | 15 | 1 | 42 | 2 | 116 |
+| 30d | 2026-10-08 | 0 | 1 | 1 | 1 | 0 | 3 |
+| last60d | 2026-09-08 | 0 | 1 | 1 | 3 | 0 | 3 |
+| 90d | 2026-08-09 | 0 | 1 | 1 | 3 | 0 | 3 |
+| last180d | 2026-05-11 | 2 | 3 | 1 | 5 | 1 | 12 |
+| 360d | 2025-11-12 | 2 | 7 | 1 | 14 | 1 | 18 |
+| last720d | 2024-11-17 | 10 | 15 | 1 | 42 | 2 | 116 |
 
 ## Release assets
 
@@ -62,7 +62,7 @@ Total: **2,588** lines of code across **14** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/landrun). **12** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/landrun). **13** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:34Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:53:47Z._
