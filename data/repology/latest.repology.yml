@@ -159,7 +159,7 @@
   summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
   maintainers:
     - arne.keller@posteo.de
-    - benedikt.peetz@b-peetz.de
+    - soispha@b-peetz.de
   licenses:
     - MIT
 - repo: opensuse_security_tumbleweed
