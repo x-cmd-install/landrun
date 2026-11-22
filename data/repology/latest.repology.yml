@@ -1,3 +1,25 @@
+- repo: stalix_dev
+  srcname: bin/land/run
+  binname: bin/land/run
+  visiblename: bin/land/run
+  version: 0.2.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix
+  srcname: bin/land/run
+  binname: bin/land/run
+  visiblename: bin/land/run
+  version: 0.1.17
+  origversion: null
+  status: outdated
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: altsisyphus
   srcname: landrun
   binnames:
@@ -30,8 +52,8 @@
   srcname: landrun-bin
   binname: landrun-bin
   visiblename: landrun-bin
-  version: 0.1.17
-  origversion: 0.1.17-1
+  version: 0.2.0
+  origversion: 0.2.0-1
   status: newest
   summary: Run any Linux process in a secure, unprivileged sandbox using Landlock LSM
   maintainers:
@@ -59,7 +81,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -74,7 +96,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -89,7 +111,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -98,7 +120,7 @@
 - repo: homebrew
   srcname: landrun
   visiblename: landrun
-  version: 0.1.17
+  version: 0.2.0
   origversion: null
   status: newest
   summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
@@ -111,7 +133,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -155,7 +177,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: null
-  status: newest
+  status: outdated
   summary: Lightweight, secure sandbox for running Linux processes using Landlock LSM
   maintainers:
     - arne.keller@posteo.de
@@ -186,7 +208,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -197,33 +219,11 @@
   visiblename: network/landrun
   version: 0.1.17
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - ricardsonwilliams+slackbuild@gmail.com
   categories:
     - network
-- repo: stalix
-  srcname: bin/land/run
-  binname: bin/land/run
-  visiblename: bin/land/run
-  version: 0.1.17
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/land/run
-  binname: bin/land/run
-  visiblename: bin/land/run
-  version: 0.1.17
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: landrun
@@ -263,7 +263,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
@@ -278,7 +278,7 @@
   visiblename: landrun
   version: 0.1.17
   origversion: 0.1.17-1
-  status: newest
+  status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - simon@josefsson.org
