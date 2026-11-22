@@ -14,14 +14,14 @@ x install landrun
 
 ## 代码洞察
 
-合计: **2,588** 行代码（覆盖前 5 种语言、共 **14** 个文件）。
+合计: **3,282** 行代码（覆盖前 5 种语言、共 **17** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 2,116 | 122 | 241 | 9 |
-| Sh | 467 | 51 | 123 | 1 |
+| Go | 2,736 | 191 | 281 | 11 |
+| Sh | 541 | 63 | 137 | 1 |
 | C | 5 | 0 | 0 | 3 |
-| Markdown | 0 | 282 | 136 | 1 |
+| Markdown | 0 | 385 | 165 | 2 |
 
 ## 源代码
 
@@ -30,47 +30,55 @@ x install landrun
 
 ## 发布
 
-- **最新版本**: `v0.1.17` (2026-07-22)
-- **最近提交**: 2026-10-16
-- **Release 含资产**: 2 个
+- **最新版本**: `v0.2.0` (2026-11-21)
+- **最近提交**: 2026-11-21
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 2,347 · **Fork**: 56 · **开放 issue**: 46 · **贡献者**: 11
+- **Star**: 2,347 · **Fork**: 56 · **开放 issue**: 46 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 15 · **开放 PR**: 1 · **已关闭 issue**: 42 · **开放 issue**: 4 · **提交数**: 116
+- **发布数**: 11 · **已合并 PR**: 16 · **开放 PR**: 0 · **已关闭 issue**: 46 · **开放 issue**: 0 · **提交数**: 122
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-22 | 0 | 1 | 1 | 2 | 2 | 3 |
-| 90d | 2026-08-23 | 0 | 1 | 1 | 3 | 2 | 3 |
-| last180d | 2026-05-25 | 2 | 3 | 1 | 5 | 3 | 12 |
-| 360d | 2025-11-26 | 2 | 7 | 1 | 14 | 3 | 18 |
-| last720d | 2024-12-01 | 10 | 15 | 1 | 42 | 4 | 116 |
+| 30d | 2026-10-23 | 1 | 0 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-23 | 1 | 2 | 0 | 4 | 0 | 8 |
+| 90d | 2026-08-24 | 1 | 2 | 0 | 5 | 0 | 8 |
+| last180d | 2026-05-26 | 3 | 4 | 0 | 8 | 0 | 17 |
+| 360d | 2025-11-27 | 3 | 8 | 0 | 17 | 0 | 22 |
+| last720d | 2024-12-02 | 11 | 16 | 0 | 46 | 0 | 122 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [landrun-linux-amd64](https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-amd64) | 6.2 MiB | `native/linux/x64` |
-| [landrun-linux-arm64](https://github.com/Zouuup/landrun/releases/download/v0.1.17/landrun-linux-arm64) | 5.9 MiB | `native/linux/arm64` |
+| [landrun-linux-386](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-386) | 5.6 MiB | `other` |
+| [landrun-linux-amd64](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-amd64) | 6.0 MiB | `native/linux/x64` |
+| [landrun-linux-amd64-glibc](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-amd64-glibc) | 5.9 MiB | `native/linux/x64` |
+| [landrun-linux-arm](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-arm) | 5.6 MiB | `native/linux/arm` |
+| [landrun-linux-arm64](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-arm64) | 5.7 MiB | `native/linux/arm64` |
+| [landrun-linux-loong64](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-loong64) | 5.9 MiB | `other` |
+| [landrun-linux-ppc64le](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-ppc64le) | 6.0 MiB | `other` |
+| [landrun-linux-riscv64](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-riscv64) | 5.5 MiB | `native/linux/riscv64` |
+| [landrun-linux-s390x](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-s390x) | 6.2 MiB | `other` |
+| [SHA256SUMS](https://github.com/Zouuup/landrun/releases/download/v0.2.0/SHA256SUMS) | 782 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/landrun) 上共有 **22** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/landrun) 上共有 **22** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.1.17` | ✅ latest |
-| Debian 14 | `0.1.17` | ✅ latest |
+| Debian unstable | `0.1.17` | ⚠️ outdated |
+| Debian 14 | `0.1.17` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.1.15` | ⚠️ outdated |
-| Homebrew | `0.1.17` | ✅ latest |
-| Nix unstable | `0.1.17` | ✅ latest |
+| Homebrew | `0.2.0` | ✅ latest |
+| Nix unstable | `0.1.17` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +89,4 @@ landrun 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T09:05:24Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:51:34Z._
