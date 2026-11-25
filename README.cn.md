@@ -36,7 +36,7 @@ x install landrun
 
 ## 流行度
 
-- **Star**: 2,351 · **Fork**: 56 · **开放 issue**: 46 · **贡献者**: 13
+- **Star**: 2,353 · **Fork**: 56 · **开放 issue**: 46 · **贡献者**: 13
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install landrun
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 0 | 2 | 0 | 4 |
-| last60d | 2026-09-25 | 1 | 2 | 0 | 4 | 0 | 8 |
-| 90d | 2026-08-26 | 1 | 2 | 0 | 5 | 0 | 8 |
-| last180d | 2026-05-28 | 3 | 4 | 0 | 8 | 0 | 17 |
-| 360d | 2025-11-29 | 3 | 8 | 0 | 17 | 0 | 22 |
-| last720d | 2024-12-04 | 11 | 16 | 0 | 46 | 0 | 122 |
+| 30d | 2026-10-26 | 1 | 0 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-26 | 1 | 2 | 0 | 4 | 0 | 8 |
+| 90d | 2026-08-27 | 1 | 2 | 0 | 5 | 0 | 8 |
+| last180d | 2026-05-29 | 3 | 4 | 0 | 8 | 0 | 17 |
+| 360d | 2025-11-30 | 3 | 8 | 0 | 17 | 0 | 22 |
+| last720d | 2024-12-05 | 11 | 16 | 0 | 46 | 0 | 122 |
 
 ## Release 资产
 
@@ -68,18 +68,6 @@ x install landrun
 | [landrun-linux-s390x](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-s390x) | 6.2 MiB | `other` |
 | [SHA256SUMS](https://github.com/Zouuup/landrun/releases/download/v0.2.0/SHA256SUMS) | 782 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/landrun) 上共有 **22** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.1.17` | ⚠️ outdated |
-| Debian 14 | `0.1.17` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.1.15` | ⚠️ outdated |
-| Homebrew | `0.2.0` | ✅ latest |
-| Nix unstable | `0.1.17` | ⚠️ outdated |
-
 ## 改进这些数据
 
 landrun 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `landrun` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +77,4 @@ landrun 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:32:29Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:30:18Z._

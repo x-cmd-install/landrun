@@ -36,7 +36,7 @@ Total: **3,282** lines of code across **17** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,351 · **Forks**: 56 · **Open issues**: 46 · **Contributors**: 13
+- **Stars**: 2,353 · **Forks**: 56 · **Open issues**: 46 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **3,282** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 0 | 2 | 0 | 4 |
-| last60d | 2026-09-25 | 1 | 2 | 0 | 4 | 0 | 8 |
-| 90d | 2026-08-26 | 1 | 2 | 0 | 5 | 0 | 8 |
-| last180d | 2026-05-28 | 3 | 4 | 0 | 8 | 0 | 17 |
-| 360d | 2025-11-29 | 3 | 8 | 0 | 17 | 0 | 22 |
-| last720d | 2024-12-04 | 11 | 16 | 0 | 46 | 0 | 122 |
+| 30d | 2026-10-26 | 1 | 0 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-26 | 1 | 2 | 0 | 4 | 0 | 8 |
+| 90d | 2026-08-27 | 1 | 2 | 0 | 5 | 0 | 8 |
+| last180d | 2026-05-29 | 3 | 4 | 0 | 8 | 0 | 17 |
+| 360d | 2025-11-30 | 3 | 8 | 0 | 17 | 0 | 22 |
+| last720d | 2024-12-05 | 11 | 16 | 0 | 46 | 0 | 122 |
 
 ## Release assets
 
@@ -68,18 +68,6 @@ Total: **3,282** lines of code across **17** files in the top 5 languages.
 | [landrun-linux-s390x](https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-s390x) | 6.2 MiB | `other` |
 | [SHA256SUMS](https://github.com/Zouuup/landrun/releases/download/v0.2.0/SHA256SUMS) | 782 B | `other` |
 
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/landrun). **3** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.1.17` | ⚠️ outdated |
-| Debian 14 | `0.1.17` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.1.15` | ⚠️ outdated |
-| Homebrew | `0.2.0` | ✅ latest |
-| Nix unstable | `0.1.17` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `landrun` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +77,4 @@ Install metadata for landrun lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:32:28Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:30:17Z._
