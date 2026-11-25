@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5894733,
       "digest": "sha256:a7dac0c7080b04630b80a647a135b384e0ef422fb08ec21083f03ee3d4f12f8f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T15:04:12Z",
       "updated_at": "2026-11-21T15:04:13Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-386"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6269450,
       "digest": "sha256:2738aa171a83246d98a24ef8afa756512b1f013b6ca7dcc95313276f8d41a8d6",
-      "download_count": 520,
+      "download_count": 684,
       "created_at": "2026-11-21T15:04:12Z",
       "updated_at": "2026-11-21T15:04:13Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6205296,
       "digest": "sha256:0bbfdf7fc146cc6ca78a8833aa11d294b6f6e4e74b0a70ebe70bd12b08667827",
-      "download_count": 67,
+      "download_count": 90,
       "created_at": "2026-11-21T15:04:12Z",
       "updated_at": "2026-11-21T15:04:13Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-amd64-glibc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5848913,
       "digest": "sha256:5eb74dd12161d83a44b12fa91a9509de87db6005ce09cacd6ab6dffc801c2c82",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T15:04:12Z",
       "updated_at": "2026-11-21T15:04:13Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-arm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6011638,
       "digest": "sha256:0f6a0b4c885b50edb37dc0f8479f22cb0c2a3f6eb8d0b44e7db22faa35006cfb",
-      "download_count": 24,
+      "download_count": 31,
       "created_at": "2026-11-21T15:04:13Z",
       "updated_at": "2026-11-21T15:04:13Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6238618,
       "digest": "sha256:f0f58e9b7705f7ae9fa6d1f876aa47cea77873cad42255c717564b8d37756fc7",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T15:04:13Z",
       "updated_at": "2026-11-21T15:04:14Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-loong64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6253067,
       "digest": "sha256:b162bf1f3cf7872ed253b82f4979df40c0a146d2d1f5de4a3bcfc6e008e3126f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T15:04:13Z",
       "updated_at": "2026-11-21T15:04:14Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-ppc64le"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5808893,
       "digest": "sha256:424f0d411a8d8a87982075737ad5211ac5599a2817c70c1760db7390dac9a8a2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T15:04:13Z",
       "updated_at": "2026-11-21T15:04:14Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-riscv64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6497508,
       "digest": "sha256:2b96c9477922414cf42b958a602d1ddef8b8560cc1549f80530551244a08a207",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T15:04:13Z",
       "updated_at": "2026-11-21T15:04:14Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/landrun-linux-s390x"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 782,
       "digest": "sha256:1f5fb09c136338e16a49cf334fd2bdd50f5ec98c28845e2bc74d7eae9bc0b6b0",
-      "download_count": 222,
+      "download_count": 300,
       "created_at": "2026-11-21T15:04:12Z",
       "updated_at": "2026-11-21T15:04:12Z",
       "browser_download_url": "https://github.com/Zouuup/landrun/releases/download/v0.2.0/SHA256SUMS"
